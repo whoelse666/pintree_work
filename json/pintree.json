@@ -1,0 +1,1444 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1754451805213,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1754468921785,
+        "title": "meituan",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1754483586709,
+            "title": "混合调度操作指引-三方签约-主体维度（海螺） - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/2198749488?kmId=2198749488&linkType=KM"
+          },
+          {
+            "type": "link",
+            "addDate": 1754556135593,
+            "title": "美团邮箱 - wb_pengrongwei@meituan.com",
+            "icon": "https://logo.clearbit.com/mail.meituan.com",
+            "url": "https://mail.meituan.com/owa/#path=/mail"
+          },
+          {
+            "type": "link",
+            "addDate": 1765766237072,
+            "title": "bug缺陷列表",
+            "icon": "https://logo.clearbit.com/ones.sankuai.com",
+            "url": "https://ones.sankuai.com/ones/product/51840/workItem/defect/list?filterId=7&cn=1&orderField=createdAt&orderKind=DESC&filterMap=dHlwZXxURVJNU3xmaWVsZE5hbWV85oyH5rS%2B57uZfGZpZWxkVHlwZXxjb21wb25lbnRfdXNlcnxmaWVsZElkfGZpZWxkfGFzc2lnbmVkfHZhbHVlfHtsb2dpblVzZXJOYW1lfXx2YWx1ZUxpc3R8Z3JvdXBeMV5eQCQwfDF8MnwzfDR8NXw2fC01fDd8OHw5fEBBXXxCfEBBXXxDfERdXQ%3D%3D"
+          },
+          {
+            "type": "folder",
+            "addDate": 1766029039268,
+            "title": "开发任务-供给-下沉优质供给库系统需求",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1766029025488,
+                "title": "FSD-空间 开发任务-供给-下沉优质供给库系统需求",
+                "icon": "https://logo.clearbit.com/fsd.sankuai.com",
+                "url": "https://fsd.sankuai.com/space/detail/51364?page=req&businessId=51364&reqFilterType=5&shareDetail=eyJzaG93RHJhd2VyIjp0cnVlLCJyZXFJZCI6OTI0MTkxNTN9"
+              },
+              {
+                "type": "link",
+                "addDate": 1766370239379,
+                "title": "开发任务-供给-下沉优质供给库系统需求",
+                "icon": "https://logo.clearbit.com/ones.sankuai.com",
+                "url": "https://ones.sankuai.com/ones/product/51364/workItem/task/detail/92981647"
+              },
+              {
+                "type": "link",
+                "addDate": 1766135540184,
+                "title": "供给调度中心页面埋点",
+                "icon": "https://logo.clearbit.com/ocean.sankuai.com",
+                "url": "https://ocean.sankuai.com/config/#/page/list?channelId=45&id=8284&curClassificationType=scene"
+              },
+              {
+                "type": "link",
+                "addDate": 1765799587092,
+                "title": "Code-waimd/waimai_data_golap",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/code/repo-detail/waimd/waimai_data_golap/file/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1765971801618,
+                "title": "下沉选货投放系统",
+                "icon": "https://logo.clearbit.com/selftest-251216-080947-195-sl-golap.waimai.test.sankuai.com",
+                "url": "https://selftest-251216-080947-195-sl-golap.waimai.test.sankuai.com/page/selection"
+              },
+              {
+                "type": "link",
+                "addDate": 1766370445033,
+                "title": "选货列表-下沉指挥平台",
+                "icon": "https://logo.clearbit.com/xcommand.web.test.sankuai.com",
+                "url": "https://xcommand.web.test.sankuai.com/m/page/selection"
+              },
+              {
+                "type": "link",
+                "addDate": 1766403424939,
+                "title": "测试切账号-统一营销中心",
+                "icon": "https://logo.clearbit.com/uoc.tsp.test.sankuai.com",
+                "url": "https://uoc.tsp.test.sankuai.com/igate/cfe_marketing_uoc/workflow/iframe.html?funcCode=collector&suburl="
+              },
+              {
+                "type": "link",
+                "addDate": 1766478678659,
+                "title": "供给调度中心-投放列表",
+                "icon": "https://logo.clearbit.com/xcommand.meituan.com",
+                "url": "https://xcommand.meituan.com/m/page/delivery"
+              },
+              {
+                "type": "link",
+                "addDate": 1766478692722,
+                "title": "测试-供给调度中心-投放列表",
+                "icon": "https://logo.clearbit.com/xcommand.web.test.sankuai.com",
+                "url": "https://xcommand.web.test.sankuai.com/m/page/delivery"
+              },
+              {
+                "type": "link",
+                "addDate": 1766478712022,
+                "title": "uac 权限系统",
+                "icon": "https://logo.clearbit.com/uac.vip.sankuai.com",
+                "url": "https://uac.vip.sankuai.com/app/9109/permission?permissionId=10089240&resourceType=node&menuId=10057947"
+              },
+              {
+                "type": "link",
+                "addDate": 1766478733960,
+                "title": "权限系统",
+                "icon": "https://logo.clearbit.com/uac.it.test.sankuai.com",
+                "url": "https://uac.it.test.sankuai.com/app/11045/permission-template"
+              },
+              {
+                "type": "link",
+                "addDate": 1766480746203,
+                "title": "selftest-251216-080947-195-sl-下沉选货投放系统",
+                "icon": "https://logo.clearbit.com/selftest-251216-080947-195-sl-golap.waimai.test.sankuai.com",
+                "url": "https://selftest-251216-080947-195-sl-golap.waimai.test.sankuai.com/page/selection/previews"
+              },
+              {
+                "type": "link",
+                "addDate": 1766545394543,
+                "title": "流水线部署Talos",
+                "icon": "https://logo.clearbit.com/talos-better.sankuai.com",
+                "url": "https://talos-better.sankuai.com/release?appId=36047&env=test&menuKey=release&templateId=547497"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1765799619136,
+            "title": "埋点",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1765799630798,
+                "title": "统一登录中心",
+                "icon": "https://logo.clearbit.com/ssosv.sankuai.com",
+                "url": "https://ssosv.sankuai.com/sson/page/access-control?client_id=dplus&ctxId=MxXAJZDjTcESiLDWdexUMGKIRgML0ghW&locale=zh&loginProtocol=MT_CAS&redirect_uri=https%3A%2F%2Focean.sankuai.com%2Fconfig%2Fapi%2Fsso%2Fcallback%3Foriginal-url%3Dhttps%253A%252F%252Focean.sankuai.com%252Fconfig%252F%2523%252Fpage%252Flist%253FchannelId%253D45%2526id%253D8284%2526curClassificationType%253Dscene"
+              },
+              {
+                "type": "link",
+                "addDate": 1765800204575,
+                "title": "个人账号管理中心",
+                "icon": "https://logo.clearbit.com/iam.sankuai.com",
+                "url": "https://iam.sankuai.com/access-permission?id=LEA2512150077727"
+              },
+              {
+                "type": "link",
+                "addDate": 1765800219315,
+                "title": "ocean 埋点管理",
+                "icon": "https://logo.clearbit.com/ocean.sankuai.com",
+                "url": "https://ocean.sankuai.com/config/#/403?channelId=45"
+              },
+              {
+                "type": "link",
+                "addDate": 1765874358545,
+                "title": "Ocean｜验证工具使用指南 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/1337730163"
+              },
+              {
+                "type": "link",
+                "addDate": 1765874362818,
+                "title": "埋点-灵犀Chrome插件（websdk）",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/321546429"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1760928188829,
+            "title": "薪资管理-系统算薪能力搭建",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1760928173777,
+                "title": "薪资管理",
+                "icon": "https://logo.clearbit.com/d.waimai.test.sankuai.com",
+                "url": "http://d.waimai.test.sankuai.com/template/xianfu-agent/salary_management_list#/salaryRepresentations"
+              },
+              {
+                "type": "link",
+                "addDate": 1760928251371,
+                "title": "薪资管理4.0-系统算薪能力搭建 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/page/910271550"
+              },
+              {
+                "type": "link",
+                "addDate": 1760944576221,
+                "title": "prod 编辑代理商工具集",
+                "icon": "https://logo.clearbit.com/wolf.sankuai.com",
+                "url": "https://wolf.sankuai.com/group/agent/edit/391"
+              },
+              {
+                "type": "link",
+                "addDate": 1760944583636,
+                "title": "发薪产品 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2727564445"
+              },
+              {
+                "type": "link",
+                "addDate": 1760944998078,
+                "title": "工作项详情",
+                "icon": "https://logo.clearbit.com/ones.sankuai.com",
+                "url": "https://ones.sankuai.com/ones/product/51364/workItem/requirement/detail/92058492"
+              },
+              {
+                "type": "link",
+                "addDate": 1760947389668,
+                "title": "test 编辑代理商工具集",
+                "icon": "https://logo.clearbit.com/wolf.waimai.test.sankuai.com",
+                "url": "https://wolf.waimai.test.sankuai.com/group/agent/edit/154168"
+              },
+              {
+                "type": "link",
+                "addDate": 1760948848043,
+                "title": "薪资系统业务小工具建设——接口文档 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2729615309"
+              },
+              {
+                "type": "link",
+                "addDate": 1761029910005,
+                "title": "PRD-下沉算发薪系统检核功能迭代 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2727127037"
+              },
+              {
+                "type": "link",
+                "addDate": 1761529642117,
+                "title": "代理商工具集",
+                "icon": "https://logo.clearbit.com/wolf.waimai.test.sankuai.com",
+                "url": "https://wolf.waimai.test.sankuai.com/group/agent/page/payroll"
+              },
+              {
+                "type": "link",
+                "addDate": 1761877033972,
+                "title": "PRD-薪资-下沉算发薪系统风险预警功能建设 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2729135456"
+              },
+              {
+                "type": "link",
+                "addDate": 1762152945468,
+                "title": "【算发薪系统】系统相关需求 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2717994171"
+              },
+              {
+                "type": "link",
+                "addDate": 1762163166210,
+                "title": "2.《合作商配送员薪酬保障管理规则》 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2669427480"
+              },
+              {
+                "type": "link",
+                "addDate": 1762163169503,
+                "title": "薪资管理4.7-算薪模板报备 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/page/1311452905"
+              },
+              {
+                "type": "link",
+                "addDate": 1762239930127,
+                "title": "合作商合作系统 算薪dev环境",
+                "icon": "https://logo.clearbit.com/wolf-manage.waimai.dev.sankuai.com",
+                "url": "https://wolf-manage.waimai.dev.sankuai.com/group/xianfu-agent/page/salary_template_config?backUrl=calc_template_management&id=7711"
+              },
+              {
+                "type": "link",
+                "addDate": 1762241664605,
+                "title": "薪资管理 test",
+                "icon": "https://logo.clearbit.com/d.waimai.test.sankuai.com",
+                "url": "http://d.waimai.test.sankuai.com/template/xianfu-agent/salary_management_list#/salary/pay-management"
+              },
+              {
+                "type": "link",
+                "addDate": 1762248340413,
+                "title": "Code-wm/waimai_mfe_crm_agent",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/code/repo-detail/wm/waimai_mfe_crm_agent/file/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1762396361234,
+                "title": "合作商合作系统 算薪模板管理",
+                "icon": "https://logo.clearbit.com/wolf-manage.waimai.dev.sankuai.com",
+                "url": "https://wolf-manage.waimai.dev.sankuai.com/group/xianfu-agent/page/calc_template_management"
+              },
+              {
+                "type": "link",
+                "addDate": 1762501436846,
+                "title": "薪资审批详情",
+                "icon": "https://logo.clearbit.com/wolf-view.waimai.dev.sankuai.com",
+                "url": "https://wolf-view.waimai.dev.sankuai.com/template/xianfu-agent/appeal_detail?status=0&id=2381#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1762845989182,
+                "title": "202511 下沉算发薪系统风险预警功能建设技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2731923099?quote-id=2731923099--b103980f-871e-4796-9632-8e2c6da9e4dc&discussion-id=1986739190180327443&comment-id=1988145041181151278"
+              },
+              {
+                "type": "link",
+                "addDate": 1762846704920,
+                "title": "下沉算发薪系统风险预警功能建设技术方案排期 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2732676950"
+              },
+              {
+                "type": "link",
+                "addDate": 1762848352906,
+                "title": "【PRD】下沉算发薪系统-业务人员激励发放功能建设（方案中） - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2731755376"
+              },
+              {
+                "type": "link",
+                "addDate": 1762848357376,
+                "title": "20251107-下沉算发薪系统检核功能迭代-技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2733025196#b-ed44ab64c8ae48d99d7ba6be939e675c"
+              },
+              {
+                "type": "link",
+                "addDate": 1762854078664,
+                "title": "20251107-下沉算发薪系统检核功能迭代-技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2733025196#b-26ecb738cd474274a323b48bc6828048"
+              },
+              {
+                "type": "link",
+                "addDate": 1762854094218,
+                "title": "202511 下沉算发薪系统风险预警功能建设技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2731923099?quote-id=2731923099--b103980f-871e-4796-9632-8e2c6da9e4dc&discussion-id=1986739190180327443&comment-id=1988145041181151278#b-37cd452fdd70461195b4cbb99e479189"
+              },
+              {
+                "type": "link",
+                "addDate": 1763027387446,
+                "title": "薪资模板配置",
+                "icon": "https://logo.clearbit.com/d.waimai.test.sankuai.com",
+                "url": "https://d.waimai.test.sankuai.com/template/xianfu-agent/salary_template_config?backUrl=calc_template_management&id=7776#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1763108162229,
+                "title": "PRD-下沉算发薪系统检核功能迭代 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2727127037#b-3d7eb4b547f94b488810643bfcb4a11a"
+              },
+              {
+                "type": "link",
+                "addDate": 1763976909844,
+                "title": " 部署 com.sankuai.igate.agent",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/services/com.sankuai.igate.agent/to-deploy/job-list"
+              },
+              {
+                "type": "link",
+                "addDate": 1764323872463,
+                "title": "创建薪资方案 算薪检核",
+                "icon": "https://logo.clearbit.com/wolf-view.waimai.dev.sankuai.com",
+                "url": "https://wolf-view.waimai.dev.sankuai.com/template/xianfu-agent/create_salary_plan?salaryPlanId=10173&step=[object%20Object]&orgId=4017&backUrl=salary_management_list#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1764659880721,
+                "title": "202511 下沉算发薪系统风险预警功能建设技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2731923099?quote-id=2731923099--555a74a3-f63c-463d-834c-1c6acc662214&discussion-id=1990717160678957136&comment-id=1990717160708292649"
+              },
+              {
+                "type": "link",
+                "addDate": 1764659892175,
+                "title": "20251107-下沉算发薪系统检核功能迭代-技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2733025196#b-7a998f06a45c4024ba0664e841f1e2ea"
+              },
+              {
+                "type": "link",
+                "addDate": 1764665760384,
+                "title": "EasyCase",
+                "icon": "https://logo.clearbit.com/ec.sankuai.com",
+                "url": "https://ec.sankuai.com/?#/case/group/detail?groupId=136661&relProjectIds=6193&card=4&isInit=true&groupType=1&id=94196&planGroupId=240815&mode=2&execTabValue=238247"
+              },
+              {
+                "type": "link",
+                "addDate": 1764667581890,
+                "title": "联调文档 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2736930045"
+              },
+              {
+                "type": "link",
+                "addDate": 1764918857469,
+                "title": "算发薪-测试用例-EasyCase",
+                "icon": "https://logo.clearbit.com/ec.sankuai.com",
+                "url": "https://ec.sankuai.com/?#/case/group/detail?groupId=136661&relProjectIds=6193&card=5&isInit=true&groupType=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1764918975172,
+                "title": "下沉算发薪系统检核功能迭代&下沉算发薪系统风险预警功能建设",
+                "icon": "https://logo.clearbit.com/fsd.sankuai.com",
+                "url": "https://fsd.sankuai.com/ones/requirement/detail/92221423?shareDetail=eyJhY3RpdmVUYWIiOiJzY2hlZHVsZSJ9"
+              },
+              {
+                "type": "link",
+                "addDate": 1766459932085,
+                "title": "wolf.waimai admin 配置 合作商合作系统",
+                "icon": "https://logo.clearbit.com/wolf.waimai.test.sankuai.com",
+                "url": "https://wolf.waimai.test.sankuai.com/group/xianfu-agent/admin/page"
+              },
+              {
+                "type": "link",
+                "addDate": 1766473409465,
+                "title": "薪资需求测试环境test",
+                "icon": "https://logo.clearbit.com/d.waimai.test.sankuai.com",
+                "url": "http://d.waimai.test.sankuai.com/template/xianfu-agent/salary_management_list#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1766545662924,
+                "title": "合作商合作系统wolf-manage.sankuai.com",
+                "icon": "https://logo.clearbit.com/wolf-manage.sankuai.com",
+                "url": "https://wolf-manage.sankuai.com/group/xianfu-agent/page/salary_management_list"
+              },
+              {
+                "type": "link",
+                "addDate": 1766545678346,
+                "title": "合作商合作系统",
+                "icon": "https://logo.clearbit.com/wolf.waimai.st.sankuai.com",
+                "url": "https://wolf.waimai.st.sankuai.com/group/xianfu-agent/page/calc_template_management"
+              },
+              {
+                "type": "link",
+                "addDate": 1766545704646,
+                "title": "wolf-manage-正式-合作商合作系统",
+                "icon": "https://logo.clearbit.com/wolf-manage.sankuai.com",
+                "url": "https://wolf-manage.sankuai.com/group/xianfu-agent/admin/publish#/sync"
+              },
+              {
+                "type": "link",
+                "addDate": 1766545720287,
+                "title": "WOLF-前端中后台标准化方案",
+                "icon": "https://logo.clearbit.com/wolf-manage.waimai.st.sankuai.com",
+                "url": "https://wolf-manage.waimai.st.sankuai.com/group/xianfu-agent/admin/publish#/sync"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1757486523887,
+            "title": "服务商签约管理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1757486495363,
+                "title": "服务商签约管理 提测记录文档 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2725871420"
+              },
+              {
+                "type": "link",
+                "addDate": 1757486529758,
+                "title": "合作商管理系统",
+                "icon": "https://logo.clearbit.com/xcommand.web.test.sankuai.com",
+                "url": "https://xcommand.web.test.sankuai.com/page/bid/contractManagement?active=serviceProviderContractManagement"
+              },
+              {
+                "type": "link",
+                "addDate": 1757568874547,
+                "title": "服务商签约 Talos 发布部署",
+                "icon": "https://logo.clearbit.com/talos-better.sankuai.com",
+                "url": "https://talos-better.sankuai.com/release?appId=34660&env=test&menuKey=release&templateId=541811"
+              },
+              {
+                "type": "link",
+                "addDate": 1757054763320,
+                "title": "测试环境-模板系统/模板列表",
+                "icon": "https://logo.clearbit.com/wolf.waimai.test.sankuai.com",
+                "url": "https://wolf.waimai.test.sankuai.com/template/xianfu-agent/notification_template_list?biz=waimai#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1757926707411,
+                "title": "提测记录文档",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2725871420#cabb5486-1354-4a30-af48-058a64deca6e"
+              },
+              {
+                "type": "link",
+                "addDate": 1754624390893,
+                "title": "服务商签约线上化 需求文档 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2719549259#b-59f7d868caf545169eabcbb4f29d55b8"
+              },
+              {
+                "type": "link",
+                "addDate": 1757928555306,
+                "title": "服务商签约能力建设技术方案设计-AI版 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2721227742#b-4187106d8b4e4968838619ec54843fb2"
+              },
+              {
+                "type": "link",
+                "addDate": 1755066369129,
+                "title": "服务商签约线上化",
+                "icon": "https://logo.clearbit.com/ones.sankuai.com",
+                "url": "https://ones.sankuai.com/ones/product/51364/workItem/requirement/detail/91147583"
+              },
+              {
+                "type": "link",
+                "addDate": 1756266008912,
+                "title": "测试用例 EasyCase",
+                "icon": "https://logo.clearbit.com/ec.sankuai.com",
+                "url": "https://ec.sankuai.com/?#/case/group/detail?groupId=120644&relProjectIds=6193&card=5&isInit=true&groupType=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1758077939091,
+                "title": "合同管理 st",
+                "icon": "https://logo.clearbit.com/xcommand.web.st.sankuai.com",
+                "url": "https://xcommand.web.st.sankuai.com/m/page/bid/contractManagement"
+              },
+              {
+                "type": "link",
+                "addDate": 1758161462604,
+                "title": "服务类商签约线上化需求验收",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2726630210#70a6901e-b7f6-4c82-804f-8ffee15af02b"
+              },
+              {
+                "type": "link",
+                "addDate": 1758180463861,
+                "title": "服务商签约线上化 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2719549259"
+              },
+              {
+                "type": "link",
+                "addDate": 1758180483128,
+                "title": "模板列表  st ",
+                "icon": "https://logo.clearbit.com/wolf.waimai.st.sankuai.com",
+                "url": "https://wolf.waimai.st.sankuai.com/template/xianfu-agent/notification_template_list?biz=waimai#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1758247023656,
+                "title": "配置.docx",
+                "icon": "https://logo.clearbit.com/wpsdocs.sankuai.com",
+                "url": "https://wpsdocs.sankuai.com/web/online/preview/1963867494402392137"
+              },
+              {
+                "type": "link",
+                "addDate": 1758264065597,
+                "title": "合同配置平台",
+                "icon": "https://logo.clearbit.com/igate.waimai.meituan.com",
+                "url": "https://igate.waimai.meituan.com/igate/econtract_platform/Home.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1758264070221,
+                "title": "美团签约实名认证",
+                "icon": "https://logo.clearbit.com/igate.waimai.st.sankuai.com",
+                "url": "https://igate.waimai.st.sankuai.com/igate/econtract/verified.html?param=0072B3D6903B08F1AB456D54C169445BEFD3002B4F652754D2E22376D66917DC1204B8CA0ADEF430AB456D54C169445B13960039CF009C149AB43D5E28E9447FA7FA4030C9C58FEFFD517943F84A44D13EBC4D71F50293948A9600766F220A991D710DD68292B1868476D24D67292AB1AD316DDC6B5B8882381A87045305FF2045AD615CEFE7E13706651FFDFE9C0C75B970E003FF163FACFD593BE1348A4346&lch=sms_20365_1968913229599379499"
+              },
+              {
+                "type": "link",
+                "addDate": 1756972340136,
+                "title": "合作商管理 > 合作商基础信息管理 > 合作商合同管理 合同列表",
+                "icon": "https://logo.clearbit.com/wm.ocrm.meituan.com",
+                "url": "https://wm.ocrm.meituan.com/page/agentweb/c3/list.html?active=supplementaryContractListForHeadquarters"
+              },
+              {
+                "type": "link",
+                "addDate": 1758553574079,
+                "title": "下沉指挥平台-合同管理-正式",
+                "icon": "https://logo.clearbit.com/xcommand.meituan.com",
+                "url": "https://xcommand.meituan.com/m/page/bid/contractManagement"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1762853888457,
+            "title": "下沉算发薪系统-业务人员激励发放功能",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1762853854615,
+                "title": "【PRD】下沉算发薪系统-业务人员激励发放功能建设（方案中） - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2731755376#b-d0bfe38c11c84156adba0243bf643648"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1754894688418,
+            "title": "UI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1754894674649,
+                "title": "Roo Design",
+                "icon": "https://logo.clearbit.com/roo.sankuai.com",
+                "url": "https://roo.sankuai.com/v2/standard/?direction=ltr#/BPC/react/roo/FormPro"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1754965431480,
+            "title": "商选拔增加多业务模式 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/2720301380"
+          },
+          {
+            "type": "folder",
+            "addDate": 1762847033960,
+            "title": "先富",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1762846980055,
+                "title": "先富-评委招标",
+                "icon": "https://logo.clearbit.com/wm-ocrm.waimai.test.sankuai.com",
+                "url": "https://wm-ocrm.waimai.test.sankuai.com/page/agentweb/waimaiBid/pages/step?bidId=11597#/stepQualifacation"
+              },
+              {
+                "type": "link",
+                "addDate": 1757929098359,
+                "title": "先富test",
+                "icon": "https://logo.clearbit.com/wm-ocrm.waimai.test.sankuai.com",
+                "url": "https://wm-ocrm.waimai.test.sankuai.com/work/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1756974613232,
+                "title": "合作商合作系统  薪资test",
+                "icon": "https://logo.clearbit.com/wolf.waimai.test.sankuai.com",
+                "url": "https://wolf.waimai.test.sankuai.com/group/xianfu-agent/page/notification_template_list#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1757298801901,
+                "title": "合作商信息变更管理 迁移",
+                "icon": "https://logo.clearbit.com/igate.waimai.test.sankuai.com",
+                "url": "https://igate.waimai.test.sankuai.com/mfepro/atm/agent/change-detail.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1760926461566,
+                "title": "先富",
+                "icon": "https://logo.clearbit.com/wm.ocrm.meituan.com",
+                "url": "https://wm.ocrm.meituan.com/work/home"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1754988551101,
+            "title": "09. 双周例会 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/page/387811571"
+          },
+          {
+            "type": "link",
+            "addDate": 1755066373233,
+            "title": "Probox",
+            "icon": "https://logo.clearbit.com/cyfe.sankuai.com",
+            "url": "https://cyfe.sankuai.com/probox/create"
+          },
+          {
+            "type": "link",
+            "addDate": 1755066712192,
+            "title": "个人账号管理中心",
+            "icon": "https://logo.clearbit.com/iam.sankuai.com",
+            "url": "https://iam.sankuai.com/my-permission?activeKey=system-access"
+          },
+          {
+            "type": "folder",
+            "addDate": 1755072230864,
+            "title": "代码仓库",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1755072214280,
+                "title": "Code-wm/waimai_cd_fe_agent_web",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/code/repo-detail/wm/waimai_cd_fe_agent_web/file/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1755072232689,
+                "title": "Code-wm/waimai_cd_fe_agent",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/code/repo-detail/wm/waimai_cd_fe_agent/file/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1754468890740,
+                "title": "代码仓库-Code-wm/emcrm_cd_fe_monorepo",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/code/repo-detail/wm/emcrm_cd_fe_monorepo/file/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1755134956311,
+                "title": "Claude",
+                "icon": "https://logo.clearbit.com/claude.ai",
+                "url": "https://claude.ai/login?returnTo=%2F%3F"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1755159281481,
+            "title": "商选拔增加多业务模式 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/2720301380#b-ce039a270ad74a02afa20804e7313504"
+          },
+          {
+            "type": "link",
+            "addDate": 1755569896616,
+            "title": "服务商签约能力建设技术方案设计-AI版 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/2721227742"
+          },
+          {
+            "type": "link",
+            "addDate": 1755831789782,
+            "title": "0.工程梳理 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/1369670190#b-1e14af58ff87438ab51b85f5443f950e"
+          },
+          {
+            "type": "folder",
+            "addDate": 1756277182262,
+            "title": "学城文档",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1756277162199,
+                "title": "技术方案模版 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2720182583"
+              },
+              {
+                "type": "link",
+                "addDate": 1756277184242,
+                "title": "全栈开发助手使用指南 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2722145392#b-69024bbb229a4576b7f1a381f3ff8cf2"
+              },
+              {
+                "type": "link",
+                "addDate": 1756277190173,
+                "title": "进度管理 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/xtable/2691723108?table=2691655326&view=29329914379067"
+              },
+              {
+                "type": "link",
+                "addDate": 1756277194930,
+                "title": "例会",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2723268681"
+              },
+              {
+                "type": "link",
+                "addDate": 1756352155195,
+                "title": "02.按钮权限 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/page/1323203945"
+              },
+              {
+                "type": "link",
+                "addDate": 1756719469754,
+                "title": "测试用例1 EasyCase",
+                "icon": "https://logo.clearbit.com/ec.sankuai.com",
+                "url": "https://ec.sankuai.com/?#/case/group/detail?groupId=120644&relProjectIds=6193&card=4&isInit=true&groupType=1&id=83548&planGroupId=206569&mode=2&execTabValue=204317"
+              },
+              {
+                "type": "link",
+                "addDate": 1764900871549,
+                "title": "泳道工具-MTDevTool 安装&使用手册 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2063016001#b-ad307c2c5e874454acb3e9a42b8b5d18"
+              },
+              {
+                "type": "link",
+                "addDate": 1766473342319,
+                "title": "安全基线能力接入指南 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/1659468008"
+              },
+              {
+                "type": "link",
+                "addDate": 1766473356408,
+                "title": "2 - H5Guard使用指南 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/1633769250"
+              },
+              {
+                "type": "link",
+                "addDate": 1766473361874,
+                "title": "Guard接入和XID获取指南 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/1200118798#b-f1cfffc568434f269ba9c32ac18074f9"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1756866165067,
+            "title": "菜单权限申请",
+            "icon": "https://logo.clearbit.com/wm.ocrm.meituan.com",
+            "url": "https://wm.ocrm.meituan.com/page/permission/permissionApplyNew.html?tab=apply"
+          },
+          {
+            "type": "link",
+            "addDate": 1757214585884,
+            "title": "QAHome 短信 验证码",
+            "icon": "https://logo.clearbit.com/qahome.sankuai.com",
+            "url": "https://qahome.sankuai.com/#/sms"
+          },
+          {
+            "type": "link",
+            "addDate": 1757214808827,
+            "title": "审批中心",
+            "icon": "https://logo.clearbit.com/shenpi.it.test.sankuai.com",
+            "url": "https://shenpi.it.test.sankuai.com/p/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1757469841803,
+            "title": "FSD-交付",
+            "icon": "https://logo.clearbit.com/fsd.sankuai.com",
+            "url": "https://fsd.sankuai.com/testApplyDetail/347833?recordId=3775157"
+          },
+          {
+            "type": "folder",
+            "addDate": 1757503471156,
+            "title": "AI开发",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1757474798716,
+                "title": "Talos -catpaw demo",
+                "icon": "https://logo.clearbit.com/talos-better.sankuai.com",
+                "url": "https://talos-better.sankuai.com/release?appId=34149&env=test&menuKey=release&templateId=536006"
+              },
+              {
+                "type": "link",
+                "addDate": 1757503474058,
+                "title": "Cargo",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/cargo/stack/detail/7c8bf6a0-c760-4291-70da-6f45d95d7e4f/yaml?tag=all"
+              },
+              {
+                "type": "link",
+                "addDate": 1757398920897,
+                "title": "成研全栈工具实践 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2725080168"
+              },
+              {
+                "type": "link",
+                "addDate": 1757503532902,
+                "title": "AI Coding体系建设MVP",
+                "icon": "https://logo.clearbit.com/ones.sankuai.com",
+                "url": "https://ones.sankuai.com/ones/product/51364/workItem/requirement/detail/90391181?shareDetail=eyJhY3RpdmVUYWIiOiJkZWxpdmVyeSJ9"
+              },
+              {
+                "type": "link",
+                "addDate": 1763103811491,
+                "title": "存量项目全栈开发 - 前后端仓库分离场景 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2727479974"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1757506348321,
+            "title": "前端监控接入SOP和项目分工 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/2723665545"
+          },
+          {
+            "type": "link",
+            "addDate": 1757572711541,
+            "title": "0.工程梳理 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/1369670190#b-295b1a3d246c4ea1b673b71cbe41618f"
+          },
+          {
+            "type": "link",
+            "addDate": 1757661992219,
+            "title": "Raptor test sop",
+            "icon": "https://logo.clearbit.com/raptor.mws-test.sankuai.com",
+            "url": "https://raptor.mws-test.sankuai.com/frontend/brief?type=datetimerange&start=20250912141500&end=20250912144500&projectId=15025&webVersion=all&metric=TP90&speedPoint=11,16,18,25&singleSpeedPoint=16&isPerfInMp=false&perfBundleId=3763&globalCityId=1&errorListCurrentPage=1&errorDetailCurrentPage=1&errorDetailCurrentPageSize=50&openingErrorLogId=CHL-67f11909-46f0-4859-a876-913ab1f168f8&errorDetailLogDate=1757659460000&openErrorType=resourceError&SEC_CATEGORY="
+          },
+          {
+            "type": "link",
+            "addDate": 1757662023464,
+            "title": "com.sankuai.igate.atm sop 测试",
+            "icon": "https://logo.clearbit.com/dev.sankuai.com",
+            "url": "https://dev.sankuai.com/services/com.sankuai.igate.atm/to-deploy/job-list"
+          },
+          {
+            "type": "folder",
+            "addDate": 1757925223932,
+            "title": "学城",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1757925204916,
+                "title": "砺剑演练操作指南-个人篇 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2715512566"
+              },
+              {
+                "type": "link",
+                "addDate": 1758188836473,
+                "title": "大象群通知说明 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/1772377203"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1757925761977,
+            "title": "MCM",
+            "icon": "https://logo.clearbit.com/mcm.mws.sankuai.com",
+            "url": "https://mcm.mws.sankuai.com/#/mine/event?queryType=TODO&name=&source=&target=&launcher=&status=&orgIds=&createTimeBegin=&createTimeEnd=&expectedStartTimeBegin=&expectedStartTimeEnd=&uuid=&page=1&pageSize=10"
+          },
+          {
+            "type": "link",
+            "addDate": 1757926596948,
+            "title": "raptor.mws-test",
+            "icon": "https://logo.clearbit.com/raptor.mws-test.sankuai.com",
+            "url": "https://raptor.mws-test.sankuai.com/frontend/error/list?type=datetimerange&start=20250915102600&end=20250915142600&projectId=15025&webVersion=all&metric=TP90&speedPoint=11,16,18,25&singleSpeedPoint=16&isPerfInMp=false&perfBundleId=3763&globalCityId=1&errorListCurrentPage=1&errorDetailCurrentPage=1&errorDetailCurrentPageSize=50&SEC_CATEGORY=&errorChartTab=errorcount"
+          },
+          {
+            "type": "link",
+            "addDate": 1757988357584,
+            "title": "代欢首页",
+            "icon": "https://logo.clearbit.com/wolf.meituan.com",
+            "url": "https://wolf.meituan.com/template/xianfu_auth/auth_403?uid=24851837&authType=upm&appKey=xianfu_waimai&url=%252Figate%252Fagent-dh%252Findex.html#/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1757989921922,
+            "title": "250908到餐框架返佣",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1757298498303,
+                "title": "🚧到餐框架返佣-新建店推指标模板 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2722581476"
+              },
+              {
+                "type": "link",
+                "addDate": 1758165899134,
+                "title": "250908到餐框架返佣-新建店推指标模板 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2722581476#b-c97e54d445ee4ba29de9a2746084d085"
+              },
+              {
+                "type": "link",
+                "addDate": 1758529140963,
+                "title": "代欢侧-到餐框架返佣新建店推指标模板技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2725924841"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1757990049882,
+            "title": "ai coding",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1757469910095,
+                "title": "Mock能力技术方案-AI模版 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2725063476"
+              },
+              {
+                "type": "link",
+                "addDate": 1757469175404,
+                "title": "下沉运营系统基建平台 -catpaw",
+                "icon": "https://logo.clearbit.com/qa-selftest-250909-160252-553-sl-infra-ltm.waimai.test.sankuai.com",
+                "url": "https://qa-selftest-250909-160252-553-sl-infra-ltm.waimai.test.sankuai.com/page/mock/manage"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1757990095879,
+            "title": "商信息管理升级",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1757297176094,
+                "title": "商信息管理升级 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2723914752"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1758096993861,
+            "title": "前端研发工具",
+            "icon": "https://logo.clearbit.com/cyfe.sankuai.com",
+            "url": "https://cyfe.sankuai.com/probox/tools"
+          },
+          {
+            "type": "link",
+            "addDate": 1758102796257,
+            "title": "美团私有云MWS",
+            "icon": "https://logo.clearbit.com/mws-test.sankuai.com",
+            "url": "http://mws-test.sankuai.com/portal"
+          },
+          {
+            "type": "link",
+            "addDate": 1758186830341,
+            "title": "先富-合作商基础信息管理 > 合作商合同管理",
+            "icon": "https://logo.clearbit.com/wm.ocrm.meituan.com",
+            "url": "https://wm.ocrm.meituan.com/page/agentweb/c3/list.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1757058530080,
+            "title": "Lion mws",
+            "icon": "https://logo.clearbit.com/lion.mws-test.sankuai.com",
+            "url": "https://lion.mws-test.sankuai.com/config/dync?env=test&appKey=com.sankuai.waimaiagent.m.osprey"
+          },
+          {
+            "type": "folder",
+            "addDate": 1758271017946,
+            "title": "文档",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1758271017949,
+                "title": "告警统计",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1758186508462,
+                    "title": "告警治理bug -agent-web",
+                    "icon": "https://logo.clearbit.com/km.sankuai.com",
+                    "url": "https://km.sankuai.com/collabpage/2726078648"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1758700259699,
+                "title": "进度管理 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/xtable/2691723108?table=2691655326"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1758594747323,
+            "title": "C3合同支持批量换签及导出功能",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1758594732127,
+                "title": "C3合同支持批量换签及导出功能-技术方案 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2724812864"
+              },
+              {
+                "type": "link",
+                "addDate": 1758594803564,
+                "title": "C3合同支持批量换签及导出功能 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2724800571"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1758869526118,
+            "title": "测试大象网页版",
+            "icon": "https://logo.clearbit.com/xm-web.it.test.sankuai.com",
+            "url": "https://xm-web.it.test.sankuai.com/chat/137439185803?type=pubchat"
+          },
+          {
+            "type": "link",
+            "addDate": 1759199308558,
+            "title": "FSD-工作台",
+            "icon": "https://logo.clearbit.com/fsd.sankuai.com",
+            "url": "https://fsd.sankuai.com/workbench"
+          },
+          {
+            "type": "link",
+            "addDate": 1759199320850,
+            "title": "ones 开发任务-服务商签约线上化",
+            "icon": "https://logo.clearbit.com/ones.sankuai.com",
+            "url": "https://ones.sankuai.com/ones/product/51364/workItem/task/detail/91289760"
+          },
+          {
+            "type": "link",
+            "addDate": 1759979718724,
+            "title": "进度管理 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/xtable/2691723108?table=2691655326&view=69282613628186"
+          },
+          {
+            "type": "folder",
+            "addDate": 1760337590142,
+            "title": "waimai_cd_fe_agent_web",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1760337566319,
+                "title": "Talos 部署 waimai_cd_fe_agent_web",
+                "icon": "https://logo.clearbit.com/talos-better.sankuai.com",
+                "url": "https://talos-better.sankuai.com/release?appId=33111&env=test&flowId=21235251&menuKey=release&templateId=530560"
+              },
+              {
+                "type": "link",
+                "addDate": 1761533248190,
+                "title": "薪资检核详情",
+                "icon": "https://logo.clearbit.com/xiongyiyi-yncrz-sl-wm-ocrm.waimai.test.sankuai.com",
+                "url": "https://xiongyiyi-yncrz-sl-wm-ocrm.waimai.test.sankuai.com/page/agentweb/agentSalary/checkRecordDetail"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1761015128025,
+            "title": "异常监控raptor",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1761015093704,
+                "title": "Raptor prod",
+                "icon": "https://logo.clearbit.com/raptor.mws.sankuai.com",
+                "url": "https://raptor.mws.sankuai.com/dashboard/list?dashboardType=base&contents=2,93,222200,222201&dashboard=227186&isCore=false"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1761205056047,
+            "title": "WOLF",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1761205043964,
+                "title": "WOLF-前端中后台标准化方案",
+                "icon": "https://logo.clearbit.com/wolf-manage.waimai.test.sankuai.com",
+                "url": "https://wolf-manage.waimai.test.sankuai.com/group/AGENT/admin/record"
+              },
+              {
+                "type": "link",
+                "addDate": 1761529651392,
+                "title": "文档",
+                "icon": "https://logo.clearbit.com/wolf-view.meituan.com",
+                "url": "https://wolf-view.meituan.com/template/WolfDoc2/index#/latest/local/WOLF%E4%BB%8B%E7%BB%8D"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1762760190232,
+            "title": "ones工作台",
+            "icon": "https://logo.clearbit.com/ones.sankuai.com",
+            "url": "https://ones.sankuai.com/ones/user/userIndex"
+          },
+          {
+            "type": "link",
+            "addDate": 1762826305112,
+            "title": "FSD-效能",
+            "icon": "https://logo.clearbit.com/fsd.sankuai.com",
+            "url": "https://fsd.sankuai.com/efficiency?tab=misgantt&orgId=155369&mistab=req&nextOrg=155369&mis=wb_pengrongwei&startTime=2025-08-10&endTime=2025-11-11&userTypeList=regular,practice,outsourced"
+          },
+          {
+            "type": "link",
+            "addDate": 1763608644156,
+            "title": "盘点任务 - 海鸥系统",
+            "icon": "https://logo.clearbit.com/haiou.sankuai.com",
+            "url": "https://haiou.sankuai.com/v2/myAssessment/myAssetCheck/ZCPD202510200004/7589?finished=0"
+          },
+          {
+            "type": "folder",
+            "addDate": 1764125664635,
+            "title": "全栈开发",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1764125643243,
+                "title": "全栈开发全流程指南（新） - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2724404943#b-1f0f5519d65c40f49e110d7b639a0d4a"
+              },
+              {
+                "type": "link",
+                "addDate": 1764754032976,
+                "title": "全栈开发全流程指南（新） - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2724404943"
+              },
+              {
+                "type": "link",
+                "addDate": 1764754054504,
+                "title": "全栈开发助手使用指南 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2722145392#b-8fc7db4ac6514c17980423bdacfd5e28"
+              },
+              {
+                "type": "link",
+                "addDate": 1764755467728,
+                "title": "05-教程 - 学城",
+                "icon": "https://logo.clearbit.com/km.sankuai.com",
+                "url": "https://km.sankuai.com/collabpage/2710895129"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1765353002490,
+            "title": "emcrm_cd_fe_monorepo  Talos",
+            "icon": "https://logo.clearbit.com/talos-better.sankuai.com",
+            "url": "https://talos-better.sankuai.com/release?appId=34660&env=test&flowId=21218446&menuKey=release&templateId=541811"
+          },
+          {
+            "type": "link",
+            "addDate": 1765423294123,
+            "title": "com.sankuai.igate.agent waimai_mfe_crm_agent 部署",
+            "icon": "https://logo.clearbit.com/dev.sankuai.com",
+            "url": "https://dev.sankuai.com/services/com.sankuai.igate.agent/to-deploy/deploy-detail/job-detail/7ea44620-75bd-41c8-9abd-9ba16d41aa32?releaseId=70110"
+          },
+          {
+            "type": "link",
+            "addDate": 1765766132247,
+            "title": "MTDevTool 安装&使用手册 - 学城",
+            "icon": "https://logo.clearbit.com/km.sankuai.com",
+            "url": "https://km.sankuai.com/collabpage/2063016001#b-3b2e3b20d01e4cfdb9fa501b13a0ba7e"
+          },
+          {
+            "type": "link",
+            "addDate": 1765850850415,
+            "title": "IAM个人中心个人账号管理中心",
+            "icon": "https://logo.clearbit.com/iam.sankuai.com",
+            "url": "https://iam.sankuai.com/access-permission?activekey=system"
+          },
+          {
+            "type": "link",
+            "addDate": 1766041526495,
+            "title": "我参与的需求-FSD-空间",
+            "icon": "https://logo.clearbit.com/fsd.sankuai.com",
+            "url": "https://fsd.sankuai.com/space/detail/51364?page=req&businessId=51364&reqFilterType=5"
+          },
+          {
+            "type": "link",
+            "addDate": 1766464699757,
+            "title": "wolf-prod合作商合作系统",
+            "icon": "https://logo.clearbit.com/wolf.sankuai.com",
+            "url": "https://wolf.sankuai.com/group/xianfu-agent/page/bid_todo"
+          },
+          {
+            "type": "folder",
+            "addDate": 1766546095561,
+            "title": "部署",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1766546077931,
+                "title": "com.sankuai.igate.agent.web ",
+                "icon": "https://logo.clearbit.com/dev.sankuai.com",
+                "url": "https://dev.sankuai.com/services/com.sankuai.igate.agent.web/to-deploy/job-list"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1766129694229,
+        "title": "平台等",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1766109714256,
+            "title": "下沉指挥平台",
+            "icon": "https://logo.clearbit.com/xcommand.web.test.sankuai.com",
+            "url": "https://xcommand.web.test.sankuai.com/m"
+          },
+          {
+            "type": "link",
+            "addDate": 1756115846924,
+            "title": "测试地址-下沉指挥平台",
+            "icon": "https://logo.clearbit.com/xcommand.web.test.sankuai.com",
+            "url": "https://xcommand.web.test.sankuai.com/m/page/bid/contractManagement"
+          },
+          {
+            "type": "link",
+            "addDate": 1766110928199,
+            "title": "UAC 线上",
+            "icon": "https://logo.clearbit.com/uac.vip.sankuai.com",
+            "url": "https://uac.vip.sankuai.com/app/9109/permission-template/10050893"
+          },
+          {
+            "type": "link",
+            "addDate": 1766111066636,
+            "title": "下沉指挥平台 任务管理",
+            "icon": "https://logo.clearbit.com/xcommand.meituan.com",
+            "url": "https://xcommand.meituan.com/m/page/commander/merchants/task/list"
+          },
+          {
+            "type": "link",
+            "addDate": 1766127843347,
+            "title": "UAC 线下  下沉指挥平台 权限系统",
+            "icon": "https://logo.clearbit.com/uac.it.test.sankuai.com",
+            "url": "https://uac.it.test.sankuai.com/app/11045/role/?roleId=10222837"
+          },
+          {
+            "type": "link",
+            "addDate": 1766129586050,
+            "title": "应用开放平台",
+            "icon": "https://logo.clearbit.com/open.sankuai.com",
+            "url": "https://open.sankuai.com/developer/app/list"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1754481362805,
+        "title": "精品MAC应用分享",
+        "icon": "https://logo.clearbit.com/xclient.info",
+        "url": "https://xclient.info/"
+      },
+      {
+        "type": "link",
+        "addDate": 1754531862660,
+        "title": "少数派 - 高效工作，品质生活",
+        "icon": "https://logo.clearbit.com/sspai.com",
+        "url": "https://sspai.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1754555979602,
+        "title": "DeepL翻译：全世界最准确的翻译",
+        "icon": "https://logo.clearbit.com/www.deepl.com",
+        "url": "https://www.deepl.com/zh/translator"
+      },
+      {
+        "type": "link",
+        "addDate": 1754556603445,
+        "title": "AgentDesk  mcp",
+        "icon": "https://logo.clearbit.com/www.agentdesk.ai",
+        "url": "https://www.agentdesk.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1754880989203,
+        "title": "ChatGPT",
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1755134976697,
+        "title": "AI 工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1755134961828,
+            "title": "v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.app",
+            "url": "https://v0.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1758267432064,
+            "title": "克劳德 --- Claude",
+            "icon": "https://logo.clearbit.com/claude.ai",
+            "url": "https://claude.ai/new"
+          },
+          {
+            "type": "link",
+            "addDate": 1758522821765,
+            "title": "火花着陆 |可视化编辑器 |Builder.io --- spark-landing | Visual Editor | Builder.io",
+            "icon": "https://logo.clearbit.com/builder.io",
+            "url": "https://builder.io/app/projects/c792f43038ef44c998264d4ec3e67b75/main"
+          },
+          {
+            "type": "link",
+            "addDate": 1758592481708,
+            "title": "Lovable",
+            "icon": "https://logo.clearbit.com/lovable.dev",
+            "url": "https://lovable.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1759026041738,
+            "title": "超级麦吉 (Super Magic) - 灯塔引擎新一代企业级 AI 应用创新引擎",
+            "icon": "https://logo.clearbit.com/www.letsmagic.ai",
+            "url": "https://www.letsmagic.ai/global/super/801566935627618306"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1756974570525,
+        "title": "JSON Hero - a beautiful JSON viewer for the web",
+        "icon": "https://logo.clearbit.com/jsonhero.io",
+        "url": "https://jsonhero.io/"
+      },
+      {
+        "type": "link",
+        "addDate": 1758853725344,
+        "title": "键盘快捷键  |  Chrome DevTools  |  Chrome for Developers",
+        "icon": "https://logo.clearbit.com/developer.chrome.com",
+        "url": "https://developer.chrome.com/docs/devtools/shortcuts?hl=zh-cn"
+      }
+    ]
+  }
+]
